@@ -1,0 +1,5 @@
+server/.classpath
+server/.project
+server/.settings/
+.vscode/
+**/*.class
