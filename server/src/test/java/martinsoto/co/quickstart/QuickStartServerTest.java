@@ -1,4 +1,4 @@
-package martinsoto.co;
+package martinsoto.co.quickstart;
 
 import static org.junit.Assert.assertTrue;
 
