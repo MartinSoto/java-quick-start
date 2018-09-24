@@ -4,3 +4,4 @@ server/.settings/
 .vscode/
 **/*.class
 server/target/
+**/.DS_Store
