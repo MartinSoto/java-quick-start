@@ -3,3 +3,4 @@ server/.project
 server/.settings/
 .vscode/
 **/*.class
+server/target/
